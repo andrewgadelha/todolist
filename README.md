@@ -1,13 +1,27 @@
-## Running React on Replit
+# ToDo List App 📝
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Um aplicativo simples de lista de tarefas desenvolvido com **React**, **TypeScript**, e **Firebase** para praticar conceitos de front-end, gerenciamento de estado e integração com banco de dados em tempo real.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## 🛠 Tecnologias Utilizadas
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+- **React**: Biblioteca JavaScript para criar interfaces de usuário.
+- **TypeScript**: Superset de JavaScript para tipagem estática.
+- **Firebase**: Banco de dados em tempo real usado para armazenar e gerenciar tarefas.
+- **TailwindCSS**: Framework de CSS para estilização responsiva e moderna.
+- **Vite**: Ferramenta de build rápida e otimizada.
 
-### Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
+## 🚀 Funcionalidades
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+- Adicionar tarefas com título e descrição.
+- Marcar tarefas como concluídas.
+- Editar tarefas existentes.
+- Excluir tarefas.
+- Persistência dos dados utilizando Firebase.
+
+## 🌐 Deploy no GitHub Pages
+
+Este projeto está disponível online em: [ToDo List App](https://andrewgadelha.github.io/todolist/)
+
+
+Feito com ❤️ por [Andrew Gadelha](https://github.com/andrewgadelha) 🚀
+
